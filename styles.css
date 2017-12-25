@@ -1,0 +1,44 @@
+/* add your CSS here */
+p,
+ul {
+  font-size: 14px ;
+  font: sans-serif ;
+}
+
+ul {
+    padding-left:0 ;
+}
+
+ul li{
+  list-style: none ;
+}
+
+h3{
+  padding: 0 10px ;
+}
+
+img {
+  width: 300px ;
+  margin: 0 10px 0 10px ;
+  border-radius: 5px ;
+}
+
+.label {
+  font-weight: bold ;
+}
+
+.card {
+  width: 320px;
+  border: 1px solid lightgrey ;
+  box-shadow: 10px 5px 10px #ecf0f1 ;
+  border-radius: 5px;
+}
+
+.info {
+  padding: .5em 1em .5em 1em ;
+  width: 266px ; /* i used em to px converter to measure the size of info div width */
+  border: 1px solid lightgrey ;
+  border-radius: 5px ;
+  margin: 10px ;
+}
+
